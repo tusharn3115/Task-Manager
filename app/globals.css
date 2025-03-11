@@ -82,6 +82,6 @@
     @apply border-border outline-ring/50;
   }
   body {
-    @apply bg-zinc-900 text-foreground;
+    @apply bg-black text-foreground text-zinc-300;
   }
 }
